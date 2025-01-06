@@ -20,3 +20,5 @@
 // 30
 // 110
 //
+// una función siempre devuelve un resultado el procedimiento no
+//en este programa no existen funciones
