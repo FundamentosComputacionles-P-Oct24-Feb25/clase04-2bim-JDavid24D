@@ -22,3 +22,4 @@
 //
 // una función siempre devuelve un resultado el procedimiento no
 //en este programa no existen funciones
+// da error pq solo recibe datos de valor entero y "variable" es tipo cadena
